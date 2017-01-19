@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8C45D889-62DA-3D28-503E-62BCF874DE92}") = "plane_client", "Assembly-CSharp.csproj", "{58528FD6-8E09-8732-7168-D7A545103C72}"
+EndProject
+Project("{8C45D889-62DA-3D28-503E-62BCF874DE92}") = "plane_client", "Assembly-CSharp-Editor.csproj", "{E47D5776-E06E-3FB6-725C-EDCEFB31CF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58528FD6-8E09-8732-7168-D7A545103C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58528FD6-8E09-8732-7168-D7A545103C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58528FD6-8E09-8732-7168-D7A545103C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58528FD6-8E09-8732-7168-D7A545103C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47D5776-E06E-3FB6-725C-EDCEFB31CF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47D5776-E06E-3FB6-725C-EDCEFB31CF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47D5776-E06E-3FB6-725C-EDCEFB31CF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47D5776-E06E-3FB6-725C-EDCEFB31CF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
